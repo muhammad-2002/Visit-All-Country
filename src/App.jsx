@@ -1,9 +1,11 @@
 import "./App.css";
+import Countries from "./Countries/Countries";
 
 function App() {
   return (
     <div>
-      <h1>Country List In The World</h1>
+      <h1>COUNTRY LIST IN THE WORLD</h1>
+      <Countries></Countries>
     </div>
   );
 }
